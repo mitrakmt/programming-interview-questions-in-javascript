@@ -10,4 +10,5 @@ Each article will cover a great deal with high level information, analysis, time
 
 ## Interview questions covered:
 - [x] All permutations of a set
+- [x] EvenOccurrence
 - [ ] kth element to last node in a linked list
