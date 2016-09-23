@@ -11,4 +11,7 @@ Each article will cover a great deal with high level information, analysis, time
 ## Interview questions covered:
 - [x] All permutations of a set
 - [x] EvenOccurrence
+- [x] Common Characters
+- [x] Integer Reverse
+- [x] Roman Numeral Translator
 - [ ] kth element to last node in a linked list
