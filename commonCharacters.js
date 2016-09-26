@@ -1,3 +1,5 @@
+// https://medium.com/init-js/common-characters-in-javascript-5b9b16ef3529#.exx6qdbpk
+
 const commonCharacters = (string1, string2) => {
   const result = {};
 
