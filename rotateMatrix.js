@@ -13,3 +13,11 @@ function rotateMatrix (matrix) {
   }
   return results;
 }
+
+// Improved solution
+const rotateMatrix = (matrix) =>
+  matrix[0].map((_, i) =>
+    matrix.map((_, j) =>
+      matrix[matrix.length - j - 1][i]
+    )
+  )
