@@ -9,11 +9,14 @@ This series is a collection of posts on how to implement various common intervie
 Each article will cover a great deal with high level information, analysis, time complexity, pseudocode and real code. If you're strictly looking for the code, you can find them in this repository :bowtie:
 
 ## Interview questions covered:
-- [x] All permutations of a set
-- [x] EvenOccurrence
+- [x] All Permutations of a Set
+- [x] Even Occurrence
 - [x] Common Characters
 - [x] Integer Reverse
 - [x] Roman Numeral Translator
 - [x] Is Subset Of
 - [ ] kth element to last node in a linked list
 - [x] Rotate Matrix
+- [x] All Anagrams
+- [x] Sudoku Checker
+- [x] Spiral Traversal
